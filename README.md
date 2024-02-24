@@ -1,7 +1,6 @@
 # AI Cover Song
 
-Cover your favorite song by your favorite singer. Here's mine.
-<p align="center"> <a href="https://youtu.be/wU6WnPl54HI"><img src="https://img.youtube.com/vi/wU6WnPl54HI/hqdefault.jpg" alt="Itsuki Nakano - Asmalibrasi (AI Cover)" > </a> </p>
+Cover your favorite song by your favorite singer.
 
 ## How to
 
