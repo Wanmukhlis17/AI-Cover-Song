@@ -13,5 +13,5 @@ Go to [Google Colab](https://github.com/reshalfahsi/AI-Cover-Song/blob/master/AI
 
 
 ## Read More
-- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/pdf/2106.07447.pdf)
+- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units]([https://arxiv.org/pdf/2106.07447.pdf](https://colab.research.google.com/drive/13KHxccnc1P7enfAfJHnh1Wmor0qL4GfC#scrollTo=DFWtM9DJRnGq)
 - [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://arxiv.org/pdf/2106.06103.pdf)
